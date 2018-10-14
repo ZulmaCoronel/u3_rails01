@@ -1,0 +1,7 @@
+{
+  "name": "practica01",
+  "version": "v1.0",
+  "text":"Aplicación básica en Rails",
+  "private": true,
+  "dependencies": {}
+}
